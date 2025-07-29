@@ -8,7 +8,7 @@ Clone the project
 
 
 ```
-git clone https://github.com/yourusername/Tier-Fitness-Website-Business-Solution.git
+git clone https://github.com/Nefero77/Tier-Fitness-Website-Business-Solution.git
 
 ```
 Open the Project
